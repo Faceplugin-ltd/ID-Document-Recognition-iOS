@@ -1,0 +1,9 @@
+Document Image Collection and Use
+
+Our app captures images of identity documents when you use Camera or Gallery. This data is used only to run on-device OCR / MRZ / barcode recognition and to show the result on your phone.
+
+We use this data solely to provide document recognition. We do not send document images to FacePlugin cloud, and we do not share them with third parties.
+
+Document images are not stored by the app after you leave the result screen. Frames exist in memory only for the duration of capture and recognition.
+
+We take the security and privacy of your data seriously and use industry-standard measures to protect it from unauthorized access, disclosure, alteration, or destruction.
