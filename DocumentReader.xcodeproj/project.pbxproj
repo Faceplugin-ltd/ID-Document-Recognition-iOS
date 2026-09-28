@@ -304,7 +304,7 @@
 				);
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = DocumentReader/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "FacePlugin DocumentReader";
+				INFOPLIST_KEY_CFBundleDisplayName = "Faceplugin-Document-SDK";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -351,6 +351,7 @@
 				);
 				GENERATE_INFOPLIST_FILE = NO;
 				INFOPLIST_FILE = DocumentReader/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Faceplugin-Document-SDK";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
